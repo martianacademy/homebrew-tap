@@ -1,6 +1,6 @@
 cask "olympus-coder" do
-  version "0.3.4"
-  sha256 "6cc892b311932f6644a6685ca3670f5f65ea419b402318fed6f9132d057e1530"
+  version "0.3.5"
+  sha256 "30fe02df74c6d9b26960b61ed4ae82a15b497271c0becd6df67be65149e65057"
 
   url "https://github.com/martianacademy/olympus-coder/releases/download/v#{version}/Olympus.Coder-#{version}-arm64.dmg"
   name "Olympus Coder"
